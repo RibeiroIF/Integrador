@@ -28,8 +28,8 @@
   <ul>
     <li> Oracle MAF </li>
     <li> Apache Cordova </li>
-    <img src="" alt="" width="60" height="60"/> 
-    <img src="" alt="" width="60" height="60"/> 
+    <img src="https://logosmarcas.net/wp-content/uploads/2020/09/Oracle-Logo.png" alt="oracle" width="80" height="80"/> 
+    <img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2015/05/c7c5d-cordova_logo_normal_dark.png?ssl=1" alt="apache-cordova" width="100" height="100"/> 
   </ul>
   </li>
   <li> <b> DataBase </b>
