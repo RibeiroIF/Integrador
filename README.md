@@ -40,9 +40,9 @@
       <li> PgAdmin4 </li>
       <li> VS Code* </li>
       <p> <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="eclipseIDE" width="40" height="40"/>  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" alt="mysql-workbench" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-          <img src="https://github.com/linuxserver/docker-mysql-workbench" alt="mysql-workbench" width="40" height="40"/>
-          <img src="" alt="eclipseIDE" width="40" height="40"/></p>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs-code" width="40" height="40"/></p>
     </ul>
   </li>
 </ul>
