@@ -17,4 +17,6 @@
 <hr>
 <h1 style text align = "center"> Diagramas </h1>
 <h3> Diagrama de Classes </h3>
+<img src="Diagrama de Classes.png"></img>
 <h3> Diagrama de Casos de Uso </h3>
+<img src="Diagrama de Casos de Uso.JPG"></img>
