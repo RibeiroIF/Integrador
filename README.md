@@ -39,6 +39,10 @@
       <li> mySQL WorkBench </li>
       <li> PgAdmin4 </li>
       <li> VS Code* </li>
+      <p> <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="eclipseIDE" width="40" height="40"/>  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+          <img src="https://github.com/linuxserver/docker-mysql-workbench" alt="mysql-workbench" width="40" height="40"/>
+          <img src="" alt="eclipseIDE" width="40" height="40"/></p>
     </ul>
   </li>
 </ul>
