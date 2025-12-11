@@ -35,7 +35,7 @@
   <li> <b> DataBase </b>
     <ul>
       <li> SQL </li>
-      <img src="" alt="" width="60" height="60"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="80" height="80"/> 
     </ul>
   </li>
   <li> <b> IDEs/Aplicações </b>
