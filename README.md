@@ -20,8 +20,8 @@
   <ul>
     <li> Java </li>
     <li> JavaScript </li>
-    <img src="" alt="" width="60" height="60"/> 
-    <img src="" alt="" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
   </ul>
   </li>
   <li> <b> Frameworks </b>
