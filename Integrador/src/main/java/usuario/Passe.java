@@ -123,7 +123,7 @@ public class Passe implements Itens{
 		sb.append(this.getId()).append("\n");
 		sb.append(this.getTitulo()).append("\n");
 		sb.append("R$: ").append(this.getSaldo()).append("\n");
-		sb.append("--------------------------------------------------").append("\n");
+		sb.append("-----------------------------------------------").append("\n");
 
 		return sb.toString();
 	}

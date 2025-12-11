@@ -18,6 +18,7 @@ public class ControleGeral {
 		sb.append("    Olá ").append(usuario.getNomeCompleto()).append(", seja bem-vindo(a)").append("\n");
 		sb.append("-----------------------------------------------").append("\n");
 		sb.append("\t   Passagens").append("\t    ").append("Recargas").append("\n");
+		sb.append("\t----------------").append("\n");
 		sb.append("\t-------------------------------").append("\n");
 		
 		for (Passe passe : usuario.getPasses()) {
@@ -25,6 +26,7 @@ public class ControleGeral {
 			for (Passagem passagem : passe.getPassagens()) {
 				sb.append("\t").append(passagem.getData()).append("\n");
 				sb.append("\t").append(passagem.getHorario()).append("\tValor: ").append(passagem.getValor()).append("\n");
+				sb.append("\t-------------------------------").append("\n");
 			}
 		}
 		

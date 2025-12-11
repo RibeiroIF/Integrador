@@ -81,7 +81,7 @@ public class Cartao implements Itens {
 		sb.append(this.getNomeProprietario()).append("\n");
 		sb.append(this.getBandeiraCartao()).append("\n");
 		sb.append(this.getTipoCartao()).append("\n");
-		sb.append("---------------------------------------").append("\n");
+		sb.append("-----------------------------------------------").append("\n");
 		
 		return sb.toString();
 	}

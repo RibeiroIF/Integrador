@@ -36,7 +36,8 @@ public class Main {
 		usuario.adicionarMetodo(cartao1);
 		
 		passe1.registrarRecarga(new Recarga(10, LocalDate.of(2025, 10, 10), LocalDate.now()));
-		passe1.registrarPassagem(new Passagem(5, LocalDate.of(2025, 07, 25), LocalDate.now()));
+		passe1.registrarPassagem(new Passagem(5, LocalDate.of(2025, 7, 25), LocalDate.now()));
+		passe1.registrarPassagem(new Passagem(3, LocalDate.of(2025, 9, 26), LocalDate.now()));
 		
 		System.out.println(controle.resumoGeral(usuario));
 		int confirmacao = input.nextInt();
